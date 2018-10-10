@@ -1,0 +1,18 @@
+{
+  "name": "OneIndex",
+  "version": 1,
+  "public": false,
+  "alias": [
+    "oneindex.now.sh"
+  ],
+  "scale": {
+    "all": {
+      "min": 1,
+      "max": 1
+    }
+  },
+  "type": "docker",
+  "features": {
+    "cloud": "v1"
+  }
+}
